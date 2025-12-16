@@ -40,4 +40,12 @@ I am an **adaptable creative** with the flexibility to handle various project de
 
 ---
 
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinecancio06-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Justine's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinecancio06-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+---
 ### Connect with Me!
