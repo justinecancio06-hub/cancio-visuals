@@ -52,7 +52,7 @@ I specialize in **high-end video production**, **digital illustration**, and **g
       <img src="https://drive.google.com/uc?export=view&id=1fcRwZt0aSAejWDGnjRHExChGNmZFrHJl" width="25"> <b>DaVinci Resolve</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Mastery-85%25-ff9933?style=flat-square" alt="85%">
+      <img src="https://img.shields.io/badge/Mastery-50%25-ff9933?style=flat-square" alt="85%">
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ I specialize in **high-end video production**, **digital illustration**, and **g
       <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="25"> <b>IbisPaint X</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Mastery-80%25-ffcc00?style=flat-square" alt="80%">
+      <img src="https://img.shields.io/badge/Mastery-100%25-ffcc00?style=flat-square" alt="100%">
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ I specialize in **high-end video production**, **digital illustration**, and **g
       <img src="https://drive.google.com/uc?export=view&id=1cGS2az3Kda1ZFvE_tJLvjB0UF8CgnncG" width="25"> <b>Alight Motion</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Mastery-75%25-cc66ff?style=flat-square" alt="75%">
+      <img src="https://img.shields.io/badge/Mastery-100%25-cc66ff?style=flat-square" alt="100%">
     </td>
   </tr>
 </table>
