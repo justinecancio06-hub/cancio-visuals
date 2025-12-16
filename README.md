@@ -17,17 +17,16 @@ I specialize in **high-end video production**, **digital illustration**, and **g
 ### 🎬 Video & Motion
 | Icon | Tool | Expertise |
 | :---: | :--- | :--- |
-| 🎞️ | **Adobe After Effects** | Motion Graphics & Montage |
-| 🌈 | **DaVinci Resolve** | Cinematic Editing & Color Grading |
-| 📱 | **Alight Motion** | Mobile Motion Design |
+| <img src="https://drive.google.com/uc?export=view&id=1voASr4ZLaM-6m3QaKV8BhQC0nzJoZjw2" width="35" height="35"> | **Adobe After Effects** | Motion Graphics & Montage |
+| <img src="https://drive.google.com/uc?export=view&id=1fcRwZt0aSAejWDGnjRHExChGNmZFrHJl" width="35" height="35"> | **DaVinci Resolve** | Cinematic Editing & Color Grading |
+| <img src="https://drive.google.com/uc?export=view&id=1cGS2az3Kda1ZFvE_tJLvjB0UF8CgnncG" width="35" height="35"> | **Alight Motion** | Mobile Motion Design |
 
 ### 🖌️ Design & Illustration
 | Icon | Tool / Medium | Expertise |
 | :---: | :--- | :--- |
-| 🖼️ | **Adobe Photoshop** | Graphic Design (Branding, UI assets, Layouts, Photo Manipulation) |
-| ✨ | **IbisPaint X** | Digital Art |
+| <img src="https://drive.google.com/uc?export=view&id=1T7LCOVSvvOqHobQwZoBqc05OiTORqlH7" width="35" height="35"> | **Adobe Photoshop** | Graphic Design (Branding, UI assets, Layouts) |
+| <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="35" height="35"> | **IbisPaint X** | Digital Art |
 | ✍️ | **Traditional Media** | Foundational Artistic Skills |
-
 ---
 
 ## ⚡ Workflow Philosophy
