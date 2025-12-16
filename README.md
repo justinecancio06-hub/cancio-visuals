@@ -6,6 +6,8 @@
   <br>
 
   ### 🎨 Blending Artistry with Industry-Standard Precision
+  
+  <img src="https://komarev.com/ghpvc/?username=justinecancio06-hub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 I specialize in **high-end video production**, **digital illustration**, and **graphic design**. My approach involves blending traditional artistic skills with industry-standard software to create comprehensive visual solutions.
@@ -27,6 +29,7 @@ I specialize in **high-end video production**, **digital illustration**, and **g
 | <img src="https://drive.google.com/uc?export=view&id=1T7LCOVSvvOqHobQwZoBqc05OiTORqlH7" width="35" height="35"> | **Adobe Photoshop** | Graphic Design (Branding, UI assets, Layouts) |
 | <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="35" height="35"> | **IbisPaint X** | Digital Art |
 | ✍️ | **Traditional Media** | Foundational Artistic Skills |
+
 ---
 
 ## ⚡ Workflow Philosophy
@@ -48,4 +51,8 @@ I am an **adaptable creative** with the flexibility to handle various project de
 </div>
 
 ---
-### Connect with Me!
+
+### 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Justine.James.Cancio)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jcancio170)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CANSI_21)
