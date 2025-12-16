@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Justine Cancio.
 
 <div align="center">
-  <img src="[YOUR_PROFILE_IMAGE_URL]" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
+  <img src="https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
   
   <br>
 
