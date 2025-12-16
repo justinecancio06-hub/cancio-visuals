@@ -1,11 +1,15 @@
 # Hi there! 👋 I'm Justine Cancio.
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B61FF&center=true&vCenter=true&width=435&lines=Multimedia+Artist" alt="Multimedia Artist Animation" />
+  </a>
+
   <br>
 
-  ### 🎨 Blending Artistry with Industry-Standard Precision
+  <img src="https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
+  
+  <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=justinecancio06-hub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
@@ -36,48 +40,46 @@ I specialize in **high-end video production**, **digital illustration**, and **g
 
 <table border="0">
   <tr>
-    <td align="left">
-      <img src="https://drive.google.com/uc?export=view&id=1voASr4ZLaM-6m3QaKV8BhQC0nzJoZjw2" width="30"> <b>After Effects</b>
+    <td align="left" style="white-space: nowrap;">
+      <img src="https://drive.google.com/uc?export=view&id=1voASr4ZLaM-6m3QaKV8BhQC0nzJoZjw2" width="25"> <b>After Effects</b>
     </td>
-    <td width="300">
+    <td>
       <img src="https://img.shields.io/badge/Mastery-90%25-9999ff?style=flat-square" alt="90%">
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <img src="https://drive.google.com/uc?export=view&id=1fcRwZt0aSAejWDGnjRHExChGNmZFrHJl" width="30"> <b>DaVinci Resolve</b>
+    <td align="left" style="white-space: nowrap;">
+      <img src="https://drive.google.com/uc?export=view&id=1fcRwZt0aSAejWDGnjRHExChGNmZFrHJl" width="25"> <b>DaVinci Resolve</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Mastery-85%25-ff9933?style=flat-square" alt="85%">
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <img src="https://drive.google.com/uc?export=view&id=1T7LCOVSvvOqHobQwZoBqc05OiTORqlH7" width="30"> <b>Photoshop</b>
+    <td align="left" style="white-space: nowrap;">
+      <img src="https://drive.google.com/uc?export=view&id=1T7LCOVSvvOqHobQwZoBqc05OiTORqlH7" width="25"> <b>Photoshop</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Mastery-95%25-3399ff?style=flat-square" alt="95%">
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="30"> <b>IbisPaint X</b>
+    <td align="left" style="white-space: nowrap;">
+      <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="25"> <b>IbisPaint X</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Mastery-80%25-ffcc00?style=flat-square" alt="80%">
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <img src="https://drive.google.com/uc?export=view&id=1cGS2az3Kda1ZFvE_tJLvjB0UF8CgnncG" width="30"> <b>Alight Motion</b>
+    <td align="left" style="white-space: nowrap;">
+      <img src="https://drive.google.com/uc?export=view&id=1cGS2az3Kda1ZFvE_tJLvjB0UF8CgnncG" width="25"> <b>Alight Motion</b>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Mastery-75%25-cc66ff?style=flat-square" alt="75%">
     </td>
   </tr>
 </table>
-
----
 
 ---
 
