@@ -1,15 +1,44 @@
-### Hi there! 👋 I'm Justine Cancio.
+# Hi there! 👋 I'm Justine Cancio.
 
-I specialize in high-end video production, digital illustration, and graphic design. I blend traditional artistic skills with industry-standard software to create comprehensive visual solutions.
+<div align="center">
+  <img src="[YOUR_PROFILE_IMAGE_URL]" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
+  
+  <br>
 
-#### 🎬 Video & Motion
-* **Motion Graphics & Montage:** Adobe After Effects
-* **Cinematic Editing & Color:** DaVinci Resolve
-* **Mobile Motion Design:** Alight Motion
+  ### 🎨 Blending Artistry with Industry-Standard Precision
+</div>
 
-#### 🎨 Design & Illustration
-* **Graphic Design:** Adobe Photoshop (Branding, UI assets, Layouts)
-* **Digital Art:** IbisPaint X & Traditional Media
+I specialize in **high-end video production**, **digital illustration**, and **graphic design**. My approach involves blending traditional artistic skills with industry-standard software to create comprehensive visual solutions.
 
-#### ⚡ Workflow
-I am an adaptable creative who can switch between heavy desktop workflows for cinematic edits and agile mobile workflows for quick motion graphics.
+---
+
+## 🚀 My Creative Arsenal
+
+### 🎬 Video & Motion
+| Icon | Tool | Expertise |
+| :---: | :--- | :--- |
+| 🎞️ | **Adobe After Effects** | Motion Graphics & Montage |
+| 🌈 | **DaVinci Resolve** | Cinematic Editing & Color Grading |
+| 📱 | **Alight Motion** | Mobile Motion Design |
+
+### 🖌️ Design & Illustration
+| Icon | Tool / Medium | Expertise |
+| :---: | :--- | :--- |
+| 🖼️ | **Adobe Photoshop** | Graphic Design (Branding, UI assets, Layouts, Photo Manipulation) |
+| ✨ | **IbisPaint X** | Digital Art |
+| ✍️ | **Traditional Media** | Foundational Artistic Skills |
+
+---
+
+## ⚡ Workflow Philosophy
+
+I am an **adaptable creative** with the flexibility to handle various project demands.
+
+> I can switch seamlessly between:
+>
+> * **🖥️ Heavy Desktop Workflows:** For cinematic, high-fidelity edits and extensive design projects.
+> * **📲 Agile Mobile Workflows:** Ideal for quick-turnaround motion graphics and on-the-go creative tasks.
+
+---
+
+### Connect with Me!
