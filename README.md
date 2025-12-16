@@ -124,4 +124,11 @@ I am an **adaptable creative** with the flexibility to handle various project de
   <a href="https://t.me/CANSI_21">
     <img src="https://lh3.googleusercontent.com/d/1y2PZNZsb3y4jnHWbg8sR6o5stAdQaAIO" width="45" alt="Telegram">
   </a>
+  <a href="https://discord.com/invite/yz7ppdFp">
+    <img src="https://drive.google.com/uc?export=view&id=1FSaAd8svVbWCJEsYuFGx-eTdgXltW43O" width="45" alt="Discord">
+  </a>
+  <a href="mailto:justinecancio06@gmail.com">
+    <img src="https://drive.google.com/uc?export=view&id=1WCrteyViIw1H5zqYq-tcFJPINgIHA9zu" width="45" alt="Email">
+  </a>
+</div>
 </div>
