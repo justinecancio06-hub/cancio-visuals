@@ -32,6 +32,55 @@ I specialize in **high-end video production**, **digital illustration**, and **g
 
 ---
 
+## 📊 Software Proficiency Mastery
+
+<table border="0">
+  <tr>
+    <td align="left">
+      <img src="https://drive.google.com/uc?export=view&id=1voASr4ZLaM-6m3QaKV8BhQC0nzJoZjw2" width="30"> <b>After Effects</b>
+    </td>
+    <td width="300">
+      <img src="https://img.shields.io/badge/Mastery-90%25-9999ff?style=flat-square" alt="90%">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://drive.google.com/uc?export=view&id=1fcRwZt0aSAejWDGnjRHExChGNmZFrHJl" width="30"> <b>DaVinci Resolve</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mastery-85%25-ff9933?style=flat-square" alt="85%">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://drive.google.com/uc?export=view&id=1T7LCOVSvvOqHobQwZoBqc05OiTORqlH7" width="30"> <b>Photoshop</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mastery-95%25-3399ff?style=flat-square" alt="95%">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://drive.google.com/uc?export=view&id=1HFTQAXEIVLmzy_a20h_Dm7aJUoWicK3v" width="30"> <b>IbisPaint X</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mastery-80%25-ffcc00?style=flat-square" alt="80%">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://drive.google.com/uc?export=view&id=1cGS2az3Kda1ZFvE_tJLvjB0UF8CgnncG" width="30"> <b>Alight Motion</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mastery-75%25-cc66ff?style=flat-square" alt="75%">
+    </td>
+  </tr>
+</table>
+
+---
+
+---
+
 ## ⚡ Workflow Philosophy
 
 I am an **adaptable creative** with the flexibility to handle various project demands.
