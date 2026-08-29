@@ -2,21 +2,21 @@
 
 # Hi there! 👋 I'm Justine Cancio.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=36&pause=1000&color=89CFF0&center=true&vCenter=true&width=500&lines=MULTIMEDIA+ARTIST" alt="Multimedia Artist Animation" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=36&pause=1000&color=89CFF0&center=true&vCenter=true&width=500&lines=MULTIMEDIA+ARTIST" alt="Multimedia Artist Animation" />
+  </a>
 
-  <br>
+  <br>
 
-  <img src="[https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g](https://drive.google.com/file/d/14j7dl29iRC2scTvpO11xjTZjBC6bFrLb/view?usp=drive_link)" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=justinecancio06-hub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://lh3.googleusercontent.com/d/14j7dl29iRC2scTvpO11xjTZjBC6bFrLb" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=justinecancio06-hub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br>
 
 I specialize in **high-end video production**, **digital illustration**, and **graphic design**. <br> My approach involves blending traditional artistic skills with industry-standard software to create comprehensive visual solutions.
-
+</div>
 ---
 
 ## 🚀 My Creative Arsenal
