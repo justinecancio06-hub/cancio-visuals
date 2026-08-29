@@ -8,7 +8,7 @@
 
   <br>
 
-  <img src="https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
+  <img src="[https://drive.google.com/uc?export=view&id=1lyV-i8Lm-Gt3lKdYxUcLvDdClJlU0F5g](https://drive.google.com/file/d/14j7dl29iRC2scTvpO11xjTZjBC6bFrLb/view?usp=drive_link)" alt="Justine Cancio - Creative Professional" width="300" style="border-radius: 50%;">
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=justinecancio06-hub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
